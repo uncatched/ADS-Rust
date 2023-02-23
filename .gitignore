@@ -1,2 +1,2 @@
-Search/binary_search/target
-Search/binary_search/Cargo.lock
+*target
+*.lock
